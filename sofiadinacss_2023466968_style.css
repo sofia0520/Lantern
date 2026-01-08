@@ -1,0 +1,21 @@
+	body
+		{
+			background-image: url(image/hogwart.jpg)
+		}
+
+		a:link, a:visited
+    	{
+    		color: whitesmoke;
+    		background-color: purple;
+    		text-decoration: none;
+    		text-align: center;
+    		padding: 15px;
+    		display: inline-block;
+    		border-radius: 35px;
+    	}
+
+    	a:hover, a:active
+    	{
+    		color: darkmagenta;
+    		background-color: yellowgreen;
+    	}

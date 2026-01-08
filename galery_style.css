@@ -1,0 +1,14 @@
+        body
+		{
+			background-image: url(image/pena.jpg)
+		}
+
+	    h2
+		{
+			color: yellow;
+			background-color: black;
+			border: 3px solid yellow;
+			font-family: Bold;
+			text-align: center;
+			font-size: 24px;
+		}
